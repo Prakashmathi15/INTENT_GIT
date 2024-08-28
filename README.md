@@ -263,9 +263,7 @@ activity_main2.xml
 ## OUTPUT:
 
 # Implicit
-
 <img width="570" alt="image" src="https://github.com/user-attachments/assets/82b04311-0f70-4874-9d7f-af564feb197f">
-
 <img width="368" alt="image" src="https://github.com/user-attachments/assets/07633976-bd4c-4f6b-ad96-3a9d3b325d49">
 
 # Explicit
